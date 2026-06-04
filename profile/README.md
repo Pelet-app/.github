@@ -80,7 +80,7 @@ Silakan akses komponen proyek kami melalui tautan di bawah ini:
 ## Antarmuka Aplikasi 
 
 ### Tampilan Pencari Kerja (Job Seeker)
-*CV Parsing & Analysis, Semantic Matching Score, AI Job Recommendation, Skill Gap Analysis, & Smart Apply System.*
+*CV Parsing & Analysis, Semantic Matching Score, AI Job Recommendation, Skill Gap Analysis, Ai Mock Interview & Smart Apply System.*
 
 ### Tampilan Perekrut (HRD / Recruiter)
 *Recruitment Dashboard, Candidate Ranking, AI Candidate Screening, Applicant Monitoring, & Vacancy Management*
