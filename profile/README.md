@@ -71,7 +71,7 @@ Silakan akses komponen proyek kami melalui tautan di bawah ini:
 * **[Deploy Aplikasi Web Frontend](https://pelet-app.vercel.app/)**
 * **[Deploy Server Backend API](http://backendcapstone-production-6ba8.up.railway.app)**
 * **[Deploy API Service AI/ML](https://egoekosetio-ai-capstone.hf.space)** 
-* **[Dashboard Data Science (Streamlit)](https://data-science-jtqg8peajwjqqksibr9pji.streamlit.app/)** 
+* **[Dashboard (Streamlit)](https://data-science-jtqg8peajwjqqksibr9pji.streamlit.app/)** 
 * **[Dataset PELET](https://github.com/SkillBridge-AI-Semantic-Skill-Matching/Data-Science/tree/main/dataset)** 
 * **[Slide Presentasi Proyek](https://canva.link/ygdedjt2vezfsut)** 
 
