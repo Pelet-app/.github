@@ -60,7 +60,7 @@ Proyek ini telah selesai **100%** sesuai rencana dengan cakupan (MVP) pada 5 bid
 - [x] **Front-End:** Web responsive, bundler Vite, integrasi API, bebas Web Generator.
 - [x] **Back-End:** RESTful API Express.js dengan arsitektur rapi (routes, controllers, services, repositories) dan local storage UX.
 - [x] **Artificial Intelligence:** Deep Learning TensorFlow, FastAPI untuk model serving, integrasi API Qwen via OpenRouter.
-- [x] **Data Science:** End-to-end Data Wrangling (2.518 data lowongan), EDA mendalam, dan Interactive Dashboard menggunakan Streamlit.
+- [x] **Data Science:** End-to-end Data Wrangling, EDA mendalam, ab tetsing, dan Interactive Dashboard menggunakan Streamlit.
 
 ---
 
