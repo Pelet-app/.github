@@ -77,14 +77,12 @@ Silakan akses komponen proyek kami melalui tautan di bawah ini:
 
 ---
 
-## Antarmuka Aplikasi (Product Screenshots)
+## Antarmuka Aplikasi 
 
 ### Tampilan Pencari Kerja (Job Seeker)
-![Job Seeker View](https://via.placeholder.com/800x450.png?text=Tampilan+Job+Seeker+Halaman+Utama) 
 *Analisis CV, Score Kecocokan Semantik, dan Rekomendasi Pelatihan Mandiri.*
 
 ### Tampilan Perekrut (HRD / Recruiter)
-![HR View](https://via.placeholder.com/800x450.png?text=Tampilan+HRD+Applicant+Ranking)
 *Dashboard Pelamar, Fitur Applicant Ranking otomatis, dan Penyaringan CV objektif.*
 
 ---
